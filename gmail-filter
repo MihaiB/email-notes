@@ -1,0 +1,4 @@
+To disable spam filtering in Gmail, create a filter with these settings:
+Has the words: is:spam
+✓ Never send it to Spam
+Optionally Apply the label: some-label
